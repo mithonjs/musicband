@@ -1,0 +1,8 @@
+Topic:  Scratch to HTML using Bootstrap
+Resources: 
+1. Framework: https://getbootstrap.com/ 
+2. Testimonial: https://essentialwebapps.com/css/css-testimonials/ 
+3. Date time: https://www.shecodes.io/athena/38917-how-to-display-the-current-date-and-time-in-javascript
+4. Alert: https://www.shecodes.io/athena/39031-how-to-create-an-alert-after-clicking-a-button-using-javascript
+5. Code: https://github.com/abNomanWeb/WDDF-B-03-04-All-Code
+6. Video: https://youtu.be/hxgTxUDqfro
